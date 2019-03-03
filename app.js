@@ -1,4 +1,4 @@
-let btnArray = ['arnold','cat'];
+let btnArray = [];
 function showBtns(){
     $("#btnContainer").empty();
     for (let i = 0; i<btnArray.length ; i++)
